@@ -1,14 +1,14 @@
 Django>=2.2.9,<3
 django-bootstrap4-form
-celery
-django-celery-beat
+# celery
+# django-celery-beat
 email-reply-parser
-akismet
+# akismet
 markdown
 beautifulsoup4
 lxml
-simplejson
-pytz
+# simplejson
+# pytz
 six
-djangorestframework
+# djangorestframework
 django-model-utils
